@@ -3,5 +3,6 @@
   "cssTheme": "Minimal",
   "interfaceFontFamily": "FiraCode Nerd Font Mono",
   "textFontFamily": "JetBrains Mono NL",
-  "monospaceFontFamily": "Source Code Pro"
+  "monospaceFontFamily": "Source Code Pro",
+  "theme": "obsidian"
 }

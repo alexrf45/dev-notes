@@ -1,0 +1,1 @@
+https://manjaro.site/how-to-add-extra-hard-drives-to-proxmox-6-2-ve/

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "178a562c41a90217",
+        "id": "d27326383dbd6237",
         "type": "tabs",
         "children": [
           {
-            "id": "19a4cbb7eb2fc33d",
+            "id": "d9f307f0f355ec07",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -135,12 +135,35 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-projects:Open projects": false
     }
   },
-  "active": "19a4cbb7eb2fc33d",
+  "active": "d9f307f0f355ec07",
   "lastOpenFiles": [
+    "1_Tools_Tech/Arch_Linux_Tips_&_Tricks.md",
     "First Note.md",
+    "0_Links.md",
+    "1_Tools_Tech/Ansible Commands.md",
+    "2_Projects/CTF_Flag_Generation.md",
+    "Tools_Tech/0_OS.md",
+    "Projects/Google Remote Desktop.md",
+    "2_Projects/Active Directory Labs.md",
+    "2_Projects/Proxmox/Set_Up_Proxmox_Cluster.md",
+    "2_Projects/Proxmox/Remove Cluster config on primary host.md",
+    "2_Projects/Proxmox/Promox_Terraform_Apply_Error_Fix.md",
+    "2_Projects/Proxmox/New Node Install.md",
+    "2_Projects/Proxmox/Kubernetes_in_Proxmox.md",
+    "2_Projects/Proxmox/Guest_Agent_Installation.md",
+    "2_Projects/Proxmox/Enable_Non-Enterprise_Repo.md",
+    "2_Projects/Proxmox/Dark_Mode_Proxmox.md",
+    "2_Projects/Proxmox/Create Terraform User for proxmox.md",
+    "2_Projects/Proxmox/Configure_Proxmox_Backup.md",
+    "2_Projects/Proxmox/Configure VMs using cloud-init.md",
+    "2_Projects/Proxmox/VM_Set-up_Using_Terraform/Reference.md",
+    "2_Projects/k3s/Install.md",
+    "1_Tools_Tech/Sample Terraform Github Action.md",
+    "1_Tools_Tech/Linux_Server_Commands.md",
     "Untitled.canvas"
   ]
 }
