@@ -11,8 +11,12 @@
             "id": "d9f307f0f355ec07",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2_Projects/k3s/k3s ansible configs.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2_Projects/k3s/k3s ansible configs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2_Projects/k3s/k3s ansible configs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2_Projects/k3s/k3s ansible configs.md"
+              }
             }
           }
         ]
@@ -141,6 +149,8 @@
   },
   "active": "d9f307f0f355ec07",
   "lastOpenFiles": [
+    "2_Projects/k3s/Install.md",
+    "2_Projects/k3s/k3s ansible configs.md",
     "1_Tools_Tech/Arch_Linux_Tips_&_Tricks.md",
     "First Note.md",
     "0_Links.md",
@@ -161,7 +171,6 @@
     "2_Projects/Proxmox/Configure_Proxmox_Backup.md",
     "2_Projects/Proxmox/Configure VMs using cloud-init.md",
     "2_Projects/Proxmox/VM_Set-up_Using_Terraform/Reference.md",
-    "2_Projects/k3s/Install.md",
     "1_Tools_Tech/Sample Terraform Github Action.md",
     "1_Tools_Tech/Linux_Server_Commands.md",
     "Untitled.canvas"
