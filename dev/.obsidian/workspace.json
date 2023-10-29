@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_Projects/k3s/k3s ansible configs.md",
+                "file": "2_Projects/Proxmox/Kubernetes_in_Proxmox.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Projects/k3s/k3s ansible configs.md",
+                "file": "2_Projects/Proxmox/Kubernetes_in_Proxmox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_Projects/k3s/k3s ansible configs.md",
+                "file": "2_Projects/Proxmox/Kubernetes_in_Proxmox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_Projects/k3s/k3s ansible configs.md"
+                "file": "2_Projects/Proxmox/Kubernetes_in_Proxmox.md"
               }
             }
           }
@@ -149,8 +149,14 @@
   },
   "active": "d9f307f0f355ec07",
   "lastOpenFiles": [
-    "2_Projects/k3s/Install.md",
+    "2_Projects/Proxmox/Guest_Agent_Installation.md",
+    "2_Projects/Proxmox/Enable_Non-Enterprise_Repo.md",
+    "2_Projects/Proxmox/Dark_Mode_Proxmox.md",
+    "2_Projects/Proxmox/Create Terraform User for proxmox.md",
+    "2_Projects/Proxmox/Configure_Proxmox_Backup.md",
+    "2_Projects/Proxmox/Configure VMs using cloud-init.md",
     "2_Projects/k3s/k3s ansible configs.md",
+    "2_Projects/k3s/Install.md",
     "1_Tools_Tech/Arch_Linux_Tips_&_Tricks.md",
     "First Note.md",
     "0_Links.md",
@@ -164,12 +170,6 @@
     "2_Projects/Proxmox/Promox_Terraform_Apply_Error_Fix.md",
     "2_Projects/Proxmox/New Node Install.md",
     "2_Projects/Proxmox/Kubernetes_in_Proxmox.md",
-    "2_Projects/Proxmox/Guest_Agent_Installation.md",
-    "2_Projects/Proxmox/Enable_Non-Enterprise_Repo.md",
-    "2_Projects/Proxmox/Dark_Mode_Proxmox.md",
-    "2_Projects/Proxmox/Create Terraform User for proxmox.md",
-    "2_Projects/Proxmox/Configure_Proxmox_Backup.md",
-    "2_Projects/Proxmox/Configure VMs using cloud-init.md",
     "2_Projects/Proxmox/VM_Set-up_Using_Terraform/Reference.md",
     "1_Tools_Tech/Sample Terraform Github Action.md",
     "1_Tools_Tech/Linux_Server_Commands.md",
