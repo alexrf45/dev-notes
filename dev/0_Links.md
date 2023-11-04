@@ -33,3 +33,5 @@
 [Fossies - Open Source Software](https://fossies.org/)
 [Focus App](https://github.com/ayoisaiah/focus)
 [Set up Docker Credential Helper](https://www.techrepublic.com/article/how-to-setup-secure-credential-storage-for-docker/)
+[CommandLineFu](https://www.commandlinefu.com/commands/browse)
+
