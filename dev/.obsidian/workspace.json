@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0_Links.md",
+                "file": "2_Projects/gitea/install.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d562594f26bf4c65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b359090a36a28c7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Tools_Tech/Ansible Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "jq",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_Links.md",
+                "file": "1_Tools_Tech/Ansible Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0_Links.md",
+                "file": "1_Tools_Tech/Ansible Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0_Links.md"
+                "file": "1_Tools_Tech/Ansible Commands.md"
               }
             }
           }
@@ -147,34 +165,35 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "d9f307f0f355ec07",
+  "active": "b359090a36a28c7c",
   "lastOpenFiles": [
+    "1_Tools_Tech/Arch_Linux_Tips_&_Tricks.md",
+    "1_Tools_Tech/AWS.md",
+    "1_Tools_Tech/Bash_Tips_&_Tricks.md",
+    "1_Tools_Tech/Create_Non-root_Docker_Container.md",
+    "1_Tools_Tech/Linux_Cmd_Line_Tips_&_Tricks.md",
+    "1_Tools_Tech/Linux_Networking_Commands.md",
+    "1_Tools_Tech/Linux_Server_Commands.md",
+    "1_Tools_Tech/Sample Terraform Github Action.md",
+    "1_Tools_Tech/Linux_SSH_Tips_and_Tricks.md",
+    "2_Projects/k3s/k3s ansible configs.md",
+    "2_Projects/k3s/Install.md",
+    "2_Projects/Proxmox/Configure VMs using cloud-init.md",
+    "2_Projects/Proxmox/VM_Set-up_Using_Terraform/Reference.md",
     "First Note.md",
     "0_Links.md",
     "2_Projects/CTF_Flag_Generation.md",
     "2_Projects/Active Directory Labs.md",
     "2_Projects/Proxmox/Set_Up_Proxmox_Cluster.md",
     "2_Projects/Proxmox/Remove Cluster config on primary host.md",
-    "2_Projects/Proxmox/VM_Set-up_Using_Terraform/Reference.md",
-    "1_Tools_Tech/Linux_Server_Commands.md",
-    "1_Tools_Tech/Linux_Cmd_Line_Tips_&_Tricks.md",
-    "1_Tools_Tech/Create_Non-root_Docker_Container.md",
-    "1_Tools_Tech/AWS.md",
-    "1_Tools_Tech/Arch_Linux_Tips_&_Tricks.md",
-    "1_Tools_Tech/Ansible Commands.md",
-    "2_Projects/k3s/Install.md",
-    "2_Projects/k3s/k3s ansible configs.md",
-    "2_Projects/Proxmox/Configure VMs using cloud-init.md",
-    "2_Projects/Proxmox/Configure_Proxmox_Backup.md",
-    "2_Projects/Proxmox/Dark_Mode_Proxmox.md",
-    "2_Projects/Proxmox/Enable_Non-Enterprise_Repo.md",
-    "2_Projects/Proxmox/Guest_Agent_Installation.md",
-    "2_Projects/Proxmox/Kubernetes_in_Proxmox.md",
-    "2_Projects/Proxmox/Create Terraform User for proxmox.md",
-    "Tools_Tech/0_OS.md",
-    "Projects/Google Remote Desktop.md",
     "2_Projects/Proxmox/Promox_Terraform_Apply_Error_Fix.md",
     "2_Projects/Proxmox/New Node Install.md",
+    "2_Projects/Proxmox/Kubernetes_in_Proxmox.md",
+    "2_Projects/Proxmox/Guest_Agent_Installation.md",
+    "2_Projects/Proxmox/Enable_Non-Enterprise_Repo.md",
+    "2_Projects/Proxmox/Dark_Mode_Proxmox.md",
+    "2_Projects/Proxmox/Configure_Proxmox_Backup.md",
+    "2_Projects/gitea",
     "Untitled.canvas"
   ]
 }

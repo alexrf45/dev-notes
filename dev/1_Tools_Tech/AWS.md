@@ -204,7 +204,6 @@ aws iam list-users | jq -r '.Users[]|.UserId+" "+.UserName'
 #create access key quick
 
 aws iam create-access-key --user-name audit-temp | jq -r '.AccessKey | .AccessKeyId+" "+.SecretAccessKey'
-AKIABWIOJIQFOLNBXXCVSUQ p9ge02ebLX9jobdQKmfikRqCiEw3HBylwHyXq0z
 
 
 # list Groups

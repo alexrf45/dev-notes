@@ -28,6 +28,14 @@ grep -r search_term .
 
 grep -v "^#" FILE | grep .
 
+# grep -i (insensitive) -v (reverse/exclude)
+
+> kgn | grep -iv node 
+NAME                 STATUS   ROLES                       AGE   VERSION
+control-plane-001    Ready    control-plane,etcd,master   9d    v1.28.2+k3s1
+control-plane-001a   Ready    control-plane,etcd,master   9d    v1.28.2+k3s1
+
+
 ```
 
 mkdir examples:
@@ -178,8 +186,24 @@ cmp, diff, tput: #commandline #cmp #diff #tput
 
 grep: #commandline #grep #diff 
 
-```
+```bash
 # grep for string and display associated file, cat does not provide the filename, merely acts as stdin
 grep --with-filename "string " *
 
 ```
+
+jq: #commandline #jq #json
+
+```bash
+> kg namespaces -o json | jq '.status.status'
+
+
+
+```
+
+sed: #commandline #sed #file-management 
+
+```bash
+sed -i 's/one/two/g' FILE #inplace replacement of text
+```
+
