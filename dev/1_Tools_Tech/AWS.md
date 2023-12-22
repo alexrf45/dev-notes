@@ -167,6 +167,9 @@ aws ec2 describe-snapshots --restorable-by-user-ids all --owner-ids 106560262141
 
 export AMI_ID=$(aws ec2 describe-images --owners amazon | jq -r ".Images[] | { id: .ImageId, desc: .Description } | select(.desc?) | select(.desc | contains(\"Amazon Linux 2\")) | select(.desc | contains(\".NET 6\")) | .id")
 
+
+export AMI_ID=$(aws ec2 describe-images --owners amazon | jq -r ".Images[] | { id: .ImageId, desc: .Description } | select(.desc?) | select(.desc | contains(\"Kali Linux\")) | select(.desc | contains(\".NET 6\")) | .id")
+
 #GBs of volumes present in account
 
 aws ec2 describe-volumes | jq -r '.Volumes | [ group_by(.State)[] | { (.[0].State): ([.[].Size] | add) } ] | add'
